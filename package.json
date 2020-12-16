@@ -1,0 +1,16 @@
+{
+  "name": "begin-mocha-example",
+  "version": "1.0.0",
+  "description": "Begin example: learn JavaScript testing with Node.js and Mocha",
+  "scripts": {
+    "start": "npx sandbox",
+    "test": "mocha"
+  },
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@architect/sandbox": "^3.3.0",
+    "@begin/data": "^1.2.3",
+    "mocha": "^8.2.1",
+    "tiny-json-http": "^7.3.0"
+  }
+}
